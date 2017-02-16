@@ -1,0 +1,28 @@
+#intro.bg-image .container-fluid {
+	background-image: url('../img/superfamous-05.jpg');
+}
+
+#about .half.bg {
+  background-image: url("../img/superfamous-03.jpg");
+  background-size: cover;
+}
+
+#mission .half.bg {
+  background-image: url("../img/superfamous-06.jpg");
+  background-size: cover;
+}
+
+#skills .half.bg {
+  background-image: url("../img/superfamous-01.jpg");
+  background-size: cover;
+}
+
+#portfolio .half.bg {
+  background-image: url("../img/superfamous-02.jpg");
+  background-size: cover;
+}
+
+#contact .half.bg {
+  background-image: url("../img/superfamous-07.jpg");
+  background-size: cover;
+}

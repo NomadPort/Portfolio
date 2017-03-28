@@ -13,8 +13,8 @@
 }
 
 #skills .half.bg {
-  background-image: url("../img/superfamous-01.jpg");
-  background-size: cover;
+  /*background-image: url("../img/superfamous-01.jpg");*/
+  /*background-size: cover;*/
 }
 
 #portfolio .half.bg {
@@ -26,3 +26,44 @@
   background-image: url("../img/superfamous-07.jpg");
   background-size: cover;
 }
+
+.tile{
+  height: 10%;
+
+}
+
+/*.tile{*/
+  /*position: absolute;*/
+/*}*/
+
+/*div#html5 {*/
+  /*position: absolute;*/
+  /*top: 20%;*/
+  /*left: 10%;*/
+/*}*/
+
+/*img#html5 {*/
+  /*height: 20vh;*/
+  /*width: 15vw;*/
+/*}*/
+
+/*div#css3 {*/
+  /*position: absolute;*/
+  /*top: 30%;*/
+  /*left: 30%;*/
+/*}*/
+/*img#css3 {*/
+  /*height: 20vh;*/
+  /*width: 15vw;*/
+/*}*/
+
+/*img#js {*/
+  /*height: 15vh;*/
+  /*width: 18vw;*/
+/*}*/
+
+/*img#angular {*/
+  /*height: 20vh;*/
+  /*width: 15vw;*/
+/*}*/
+

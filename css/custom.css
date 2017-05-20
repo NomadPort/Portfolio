@@ -27,43 +27,59 @@
   background-size: cover;
 }
 
-.tile{
-  height: 10%;
+/*.tile{*/
+  /*height: 10%;*/
+  /*display: inline-block;*/
 
+/*}*/
+
+.section-header{
+  margin-left: 10%;
 }
 
-/*.tile{*/
-  /*position: absolute;*/
-/*}*/
+#tile_container {
+  height: 60%;
+  width: 80%;
+  /*background-color: red;*/
+  display: inline-block;
+}
+#tile_container2 {
+  margin-top: 10%;
+  height: 60%;
+  width: 80%;
+  /*background-color: red;*/
+  display: inline-block;
+}
 
-/*div#html5 {*/
-  /*position: absolute;*/
-  /*top: 20%;*/
-  /*left: 10%;*/
-/*}*/
+div#d3 {
+  display: inline-block;
+}
 
-/*img#html5 {*/
-  /*height: 20vh;*/
-  /*width: 15vw;*/
-/*}*/
+div#jquery {
+  display: inline-block;
+}
 
-/*div#css3 {*/
-  /*position: absolute;*/
-  /*top: 30%;*/
-  /*left: 30%;*/
-/*}*/
-/*img#css3 {*/
-  /*height: 20vh;*/
-  /*width: 15vw;*/
-/*}*/
+div#bootstrap {
+  display: inline-block;
+}
 
-/*img#js {*/
-  /*height: 15vh;*/
-  /*width: 18vw;*/
-/*}*/
+div#firebase {
+  display: inline-block;
+}
 
-/*img#angular {*/
-  /*height: 20vh;*/
-  /*width: 15vw;*/
-/*}*/
+div#html5 {
+  display: inline-block;
+}
+
+div#css3 {
+  display: inline-block;
+}
+
+div#js {
+  display: inline-block;
+}
+
+div#angular {
+  display: inline-block;
+}
 
